@@ -379,7 +379,7 @@ p{
         text-align: center;
     }
     #pied{
-        visibility: hidden;
+        display: none;
     }
     .col-c{
         border:none;
