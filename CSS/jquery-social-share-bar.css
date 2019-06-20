@@ -69,28 +69,24 @@
 }
 
 .sharing-providers > li.facebook:hover {
-  background: rgb(250, 250, 250);
-  box-shadow:0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background: #4267B2;
+  
 }
 
 .sharing-providers > li.googleplus:hover {
-  background:  rgb(250, 250, 250);
-  box-shadow:0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background: #d14836;
 }
 
 .sharing-providers > li.twitter:hover {
-  background:  rgb(250, 250, 250);
-  box-shadow:0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background: #1DA1F2;
 }
 
 .sharing-providers > li.linkedin:hover {
-  background:  rgb(250, 250, 250);
-  box-shadow:0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background: #0077B5;
 }
 
 .sharing-providers > li.tumblr:hover {
-  background:  rgb(250, 250, 250);
-  box-shadow:0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background: #2c4762;
 }
 
 .sharing-providers > li.digg:hover {
@@ -110,8 +106,7 @@
 }
 
 .sharing-providers > li.email:hover {
-  background:  rgb(250, 250, 250);
-  box-shadow:0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background: #E3A129;
 }
 
 @media (max-width: 680px) {
