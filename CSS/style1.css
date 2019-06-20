@@ -313,6 +313,7 @@ p{
     border: none;
     color:rgba(33, 35, 56, 0.911);
     font-family: "SharpeLi_PERSONAL";
+    background-color: whitesmoke;
 }
 #logo h1{
     font-weight: bold;
@@ -392,6 +393,9 @@ p{
     }
    .tit h6{
        font-size: 20px;
+   }
+   .map{
+       margin-bottom: 80px;
    }
   
 
