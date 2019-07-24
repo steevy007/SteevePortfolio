@@ -318,25 +318,6 @@ p{
 #logo h1{
     font-weight: bold;
 }
-.l1{
-    color: orange;
-    font-size: 25px;
-}
-.l2{
-    color: palegreen;
-}
-.l3{
-    color:lightcoral;
-}
-.l4{
-    color:lightblue;
-}
-.l5{
-    color:violet;
-}
-.l6{
-    color:mediumturquoise;
-}
 .ccle h6{
     color: black;
     float: left;
@@ -345,6 +326,12 @@ p{
     padding-top: 50%;
     text-align: center;
     width: 100%;
+}
+.log{
+    color:rgb(36, 128, 182);
+    width: 250px;
+    font-size:20px;
+    font-family: Adams;
 }
 
 @media(max-width:800px){
@@ -397,6 +384,10 @@ p{
    .map{
        margin-bottom: 80px;
    }
-  
+  .log{
+      width: 100%;
+      font-size: 16px;
+      color:rgb(36, 128, 182);
+  }
 
 }
