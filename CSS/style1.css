@@ -29,6 +29,7 @@ body{
     width: 100%;
     height: 600px;
     background-image: url('../IMAGES/cup-of-coffee-1280537_1280.jpg');
+   
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -155,7 +156,8 @@ header{
 }
 .cont1 h6 a{
     text-decoration: none;
-    color: gray;
+    color: black;
+   
 }
 .c h4{
     font-family: "AppleGaramond-LightItalic";
@@ -169,6 +171,7 @@ header{
     box-shadow:0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     border: none;
     color: rgb(33,35,56);
+    text-decoration: none;
 }
 .im h6{
   font-family: "Adam";
@@ -316,7 +319,7 @@ p{
     background-color: whitesmoke;
 }
 #logo h1{
-    font-weight: bold;
+    font-weight: italic;
 }
 .ccle h6{
     color: black;
@@ -331,7 +334,7 @@ p{
     color:rgb(36, 128, 182);
     width: 250px;
     font-size:20px;
-    font-family: Adams;
+    font-family: SharpeLi_PERSONAL;
 }
 
 @media(max-width:800px){
@@ -386,7 +389,7 @@ p{
    }
   .log{
       width: 100%;
-      font-size: 16px;
+      font-size: 20px;
       color:rgb(36, 128, 182);
   }
 
