@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora|Nunito&display=swap');
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 55px;
+}
+#first-sec{
+    height: 100vh;
+    position: relative;
+    font-family:  'Lora', serif;
+    background-attachment: fixed;
+}
+.overlay{
+    height: 100%;
+    background-color: rgba(61, 56, 56, 0.712);
+    display: flex;
+    align-items: center;
+}
+.overlay1{
+    height: 100%;
+    background-color: rgba(61, 56, 56, 0.712);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-angle-double-left{
+    color:#3e2723;
+}
+.fa-angle-double-right{
+    color:#3e2723;
+}
+.fa-html5{
+    color:#ffb74d ;
+}
+.fa-css3{
+color:#0277bd ;
+}
+.fa-java{
+    color:#f44336;
+}
+.fa-php{
+    color:#01579b ;
+}
+.fa-js{
+    color:#ffeb3b ;
+}
+
+.text p{
+    font-size:1.5rem;
+    color:rgba(255, 255, 255, 0.685);
+}
+#about{
+    padding: 10px 10px;
+}
+#comp,#contact{
+    padding: 70px 0px;
+}
+.titre{
+    padding: 45px 0px;
+}
+.paralax1{
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+.progress{
+    margin-top: 10px;
+}
+
+body{
+    background: #f2f2f2c5;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+}
+
+.social-box .box{
+    background: white;
+    border-radius: 10px; 
+    padding: 40px 10px;
+    margin: 20px 0px;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+.social-box .box:hover{
+   box-shadow: 0 0 6px #424242;
+}
+
+.social-box .box .box-text{
+    margin:20px 0px;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.social-box .box .box-btn a{
+    text-decoration: none;
+    color: #4183D7;
+    font-size: 16px;
+}
+.skill h4{color: #5f5d5d;font-size: 22px;font-weight: 400;margin-bottom:20px}
+#skills .skill .progress {overflow: visible;background-color: #ddd;-webkit-box-shadow: none; box-shadow: none; height: 10px;}
+#skills .skill .progress .progress-bar {background-color: #498bfc;position: relative;-webkit-transition: all 1s ease;transition: all 1s ease;}
+#skills .skill .progress .progress-bar .percent {position: absolute;width: 40px;height: 40px;line-height: 40px;border-radius: 50%;text-align: center;background-color: #498bfc;-webkit-transform: scale(0);-ms-transform: scale(0);transform: scale(0);top: -15px;right: -20px;font-size: 16px;-webkit-transition: all 0.3s ease;transition: all 0.3s ease;}
+#skills .skill + .skill {margin-top: 35px;}
+
+.fa{
+     color:#4183D7;
+}
+.GT{
+    color:whitesmoke;
+    font-size:100px;
+    font-family: 'Lora', serif;
+}
+.btn-st{
+    color:black;
+    font-size: 25px;
+    background-color: whitesmoke;
+    border-radius:50px;
+    padding: 15px 50px;
+    border:none;
+    outline: none;
+}
+.btn-st:hover{
+    color: black;
+}
+@media (max-width:768px){
+    .GT{
+        font-size:40px;
+    }
+    .btn-st{
+        font-size: 15px;
+    }
+    
+}
