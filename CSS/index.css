@@ -50,7 +50,7 @@ color:#0277bd ;
     color:rgba(255, 255, 255, 0.685);
 }
 #about{
-    padding: 10px 10px;
+    padding: 50px 10px;
 }
 #comp,#contact{
     padding: 70px 0px;
@@ -119,7 +119,16 @@ h3{
     font-size: 25px;
     background-color: whitesmoke;
     border-radius:50px;
-    padding: 15px 50px;
+    padding: 15px 40px;
+    border:none;
+    outline: none;
+}
+.btn-st1{
+    color:whitesmoke;
+    font-size: 25px;
+    background-color: #2E2E2E;
+    border-radius:50px;
+    padding: 15px 40px;
     border:none;
     outline: none;
 }
@@ -131,6 +140,9 @@ h3{
         font-size:40px;
     }
     .btn-st{
+        font-size: 15px;
+    }
+    .text p{
         font-size: 15px;
     }
     
