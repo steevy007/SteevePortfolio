@@ -219,6 +219,9 @@ h3{
     color:#e91e63;
     transform:rotateY(360deg);
 }
+.co{
+    margin-bottom: 50px;
+}
 .btn{ border-radius: 50%; width:32px; height:32px; line-height:18px;  }
 
 @media (max-width:768px){
